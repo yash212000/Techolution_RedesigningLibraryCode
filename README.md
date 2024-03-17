@@ -7,7 +7,7 @@ The system is built using OOPs principles. Key entities like books, users, and c
 **User:** Represents a library user, with a name and a unique numeric user ID.\
 **Library:** Acts as the central management class, containing lists of books and users, and methods to add, delete, list, and manage these entities.\
 Also, since Library is a class, we can scale this program to include multiple libraries.\
-**CheckManager:** Handles the checking in and out of books, ensuring updates to book availability and tracking current loans.\
+**CheckManager:** Handles the checking in and out of books, ensuring updates to book availability and tracking current loans.
 
 
 
